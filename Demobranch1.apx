@@ -2,4 +2,7 @@ public class Mybranch1{
 	public void getMethod(){
 		system.debug("Hi im from branch1");
 	}
+	public void getMessage(){
+		system.debug("Hi im  a new branch");
+	}
 }
